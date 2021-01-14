@@ -30,10 +30,12 @@ The lessons that I have learned from this assignment were infinite each assignme
 
 # Takaways: 
 
-The takaways from this assignment is a much better knowledge of Java and how it is so imperitive to make the webpage complex. Its functions create so much and do so much but they can also be messed up very easily with a simple wrong {} or a misplaced ; it all boils down to the context and following the rules of the langauage. I would not be able to complete this assignment without the extensive reserch that come along with each assignment. The knowledge that I have gained so far is limitless and I never knew how hard and complex it would become but I am happy and willing to keep learning how to build on the simple concepts we have already learned. 
+The takaways from this assignment is a much better knowledge of Java and how it is so imperitive to make the webpage complex. Its functions create so much and do so much but they can also be messed up very easily with a simple wrong {} or a misplaced ; it all boils down to the context and following the rules of the language. I would not be able to complete this assignment without the extensive reserch that come along with each assignment. The knowledge that I have gained so far is limitless and I never knew how hard and complex it would become but I am happy and willing to keep learning how to build on the simple concepts we have already learned. 
 
 # Screenshots: 
 
 Screen shots of the assignment are available in the code-quiz-homework4/screenshots folder.
 
 # Deployment URL:
+
+https://anthonydominguez86.github.io/code-quiz-week4/
