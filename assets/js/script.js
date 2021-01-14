@@ -1,6 +1,6 @@
 alert ("An Assessment is Required. Let's Get Started!!");
 
-//Defining Variables 
+//Variables 
 var quizBody = document.getElementById("quiz");
 var resultsEl = document.getElementById("result");
 var finalScoreEl = document.getElementById("finalScore");
@@ -76,10 +76,11 @@ var quizQuestions = [{
 // Other global variables
 var finalQuestionIndex = quizQuestions.length;
 var currentQuestionIndex = 0;
-var timeLeft = 76;
+var timeLeft = 60;
 var timerInterval;
 var score = 0;
 var correct;
+var incorrect;
 
 // This function cycles through the array containing the quiz questions to generate the questions and answers.
 function generateQuizQuestion(){
@@ -209,9 +210,10 @@ function checkAnswer(answer){
         currentQuestionIndex++;
         generateQuizQuestion();
         //display in the results div that the answer is wrong.
-    }else{
+    }else{        
         showScore();
     }
+
 }
 
 // This button starts the quiz!
